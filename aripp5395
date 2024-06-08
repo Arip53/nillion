@@ -1,0 +1,4 @@
+npm init -y
+npm install dotenv bip39 @cosmjs/proto-signing @cosmjs/stargate
+npm install -g ts-node typescript
+npm install --save-dev ts-node typescript
